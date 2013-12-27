@@ -7,7 +7,9 @@ tweettest package simply implemented a graph database for a twitter dataset (Pro
 
 GraphCypherTest.java is an example of calling Neo4j Cypher query API to operate on the graph database. Introduction of Cypher query language can be found here: http://docs.neo4j.org/chunked/milestone/cypher-query-lang.html
 
-You are free to redistribute and/or modify this code for  research and academic purpose. Please contact liufan.seu@gmail.com if you have additional question or want to use this code for publication or commercial purpsoe.
+You are free to redistribute and/or modify this code for  research and academic purpose.
+
+Please contact liufan.seu@gmail.com if you have additional question or want to use this code for publication or commercial purpsoe.
 
 Thanks to Neo4j Technology, it is a really powerful database for graph data.
 
